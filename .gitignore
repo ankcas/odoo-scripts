@@ -1,0 +1,28 @@
+# Entorno
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Archivos de datos
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+
+# Carpetas de trabajo
+procesados/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Claude Code
+.claude/
